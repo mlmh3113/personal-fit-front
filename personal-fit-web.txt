@@ -1,0 +1,32 @@
+que necesitamos
+
+un front atractivo y con link visibles y que den ganas de apretarlos 
+
+un back que nos permita el manejo de clientes(alumnos, personas a entrenar)
+que permita registrarce cargando sus datos persononales objetivos(ver re
+ferencia en la imagem qie nis envio tamila)
+
+permitir el logue de los usuarios y del admin para admistrar las publicaciones
+y la administracion de los alumnos   
+
+nav: inicio- About - Blog - registrate - admin - estudiantes - login - logout 
+
+backend:
+npm init
+
+ "dev" :"node --watch index.js", || npm i -D nodemon
+
+ npm i express
+
+ "type": "module",
+
+ npm i dotenv
+ import dotenv from 'dotenv'
+ dotenv.config()
+
+ npm i mongoose
+
+
+
+
+
